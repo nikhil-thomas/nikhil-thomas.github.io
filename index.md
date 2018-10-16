@@ -8,6 +8,15 @@ layout: default
 Hi, I am Engineer Nikhil. I love structures and patterns. For me, engineering is the application of everyday learning to solve problems 
 and learning back from the solutions.
 
+### Research Interests
+
+--------------- |
+Data-pipelines, Datacenters, Distributed Systems |
+Intelligent Systems, Operating Systems, Computer Networking |
+Software Design, Software Architecture, Embedded Systems |
+Field Programable Gate Arrays (FPGA), System on Chip |
+
+
 ### Engineering Skills
 
 ---------------------- | ---------------

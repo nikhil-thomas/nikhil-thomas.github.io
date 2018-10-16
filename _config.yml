@@ -15,10 +15,19 @@
 # in the templates via {{ site.myvariable }}.
 title: Nikhil Thomas
 email: nikhilthomas1@gmail.com
-logo: assets/images/mwb.png
+logo: assets/images/nikhil_thomas_192x192.png
 description: > # this means to ignore newlines until "baseurl:"
-  Master:Web:Builder (MWB)<br>
-  Mastery is a journey.
+  <table>
+    <tr>
+      <td>
+        <img src="/assets/images/mwb_96x96.png"/>
+      </td>
+      <td>
+        Master:Web:Builder (MWB)<br>
+        Mastery is a verb.
+      </td>
+    </tr>
+  </table>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
