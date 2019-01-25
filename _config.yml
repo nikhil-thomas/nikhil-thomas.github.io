@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Nikhil Thomas
 email: nikhilthomas1@gmail.com
-logo: assets/images/nikhil_thomas_red_hat_192x192.png
+logo: assets/images/nikhil_thomas_red_hat_192x192.jpg
 description: > # this means to ignore newlines until "baseurl:"
   <table>
     <tr>
