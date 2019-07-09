@@ -50,7 +50,11 @@ Adaptive Controller Using Runtime Partial Hardware Reconfiguration for Unmanned 
 2015 Intl Conf on ReConFigurable Computing and FPGAs  
 [https://ieeexplore.ieee.org/document/7393288](https://ieeexplore.ieee.org/document/7393288)
 
+### Talks
 
+#### How to Build Cloud-Native CI/CD Pipelines With Tekton on Kubernetes
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-ji5Z0qJmJs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Public Profiles
 
