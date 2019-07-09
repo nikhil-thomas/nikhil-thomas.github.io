@@ -18,8 +18,6 @@ Intelligent Systems, Operating Systems, Computer Networking |
 Software Design, Software Architecture, Embedded Systems |
 Field Programable Gate Arrays (FPGA), System on Chip |
 
----
-
 ### Engineering Skills
 
 ---------------------- | ---------------
@@ -32,8 +30,6 @@ Cloud Computing        | Amazon Web Services (EC2, S3, Elastic Bean Stalk)
 Hardware Design        | VHDL, FPGA Design Flow, Xilinx ISE/Vivado
 MEMS, MicroFabrication | Clean Room Training, Photolithography, Diffusion, Etching
 
----
-
 ### Language Proficiency
 
 --------- | ---------------
@@ -42,16 +38,12 @@ English   | Proficient (12 years of schooling), 4 years college, 4 years in USA
 German    | Goethe Zertifikat B1 (May 2018), A2 (December 2017), A1 (August 2017)
 Hindi     | Reading, Listening, Speaking
 
----
-
 ### Education
 
 -------------------------------------------------------------- | ------------- | ------------------------------------------------------------------------------------- | ----------
 Master’s Degree in Computer Engineering                        | August 2015   | University of Arkansas, Fayetteville, AR                                              | 3.6/4.0
 Master’s Degree in Microelectronics-Photonics                  | December 2013 | University of Arkansas, Fayetteville, AR                                              | 3.8/4.0
 Bachelor’s Degree in Computer Science and Computer Engineering | April 2009    | Model Engineering College, Cochin University of Science and Technology, Cochin, India | 7.0/10.0
-
----
 
 ### Publications
 
