@@ -1,0 +1,87 @@
+<div id="code-example-tabs">
+  <style>
+    #code-example-tabs .code-tabs {
+      overflow: hidden;
+      border: 1px solid #ccc;
+      background-color: #f1f1f1;
+    }
+
+    #code-example-tabs .tab-link {
+      background-color: inherit;
+      float: left;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      padding: 14px 16px;
+      transition: background-color 0.3s;
+    }
+
+    #code-example-tabs .tab-link:hover {
+      background-color: #ddd;
+    }
+
+    #code-example-tabs .tab-link.active {
+      background-color: #ccc;
+    }
+
+    #code-example-tabs .tab-content {
+      display: none;
+      padding: 6px 12px;
+      border: 1px solid #ccc;
+      border-top: none;
+    }
+  </style>
+
+  <div class="code-tabs">
+    <button class="tab-link" onclick="openLanguage(event, 'Python')">Python</button>
+    <button class="tab-link" onclick="openLanguage(event, 'JavaScript')">JavaScript</button>
+    <button class="tab-link" onclick="openLanguage(event, 'Java')">Java</button>
+  </div>
+
+  <div id="Python" class="tab-content">
+    <h3>Python</h3>
+    <pre><code># Python code snippet for backtracking
+def backtrack():
+    pass
+    </code></pre>
+  </div>
+
+  <div id="JavaScript" class="tab-content">
+    <h3>JavaScript</h3>
+    <pre><code>// JavaScript code snippet for backtracking
+function backtrack() {
+    // Implementation
+}
+    </code></pre>
+  </div>
+
+  <div id="Java" class="tab-content">
+    <h3>Java</h3>
+    <pre><code>// Java code snippet for backtracking
+public void backtrack() {
+    // Implementation
+}
+    </code></pre>
+  </div>
+
+  <script>
+    function openLanguage(evt, languageName) {
+      var i, tabcontent, tablinks;
+      tabcontent = document.querySelectorAll("#code-example-tabs .tab-content");
+      for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+      }
+      tablinks = document.querySelectorAll("#code-example-tabs .tab-link");
+      for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+      }
+      document.getElementById(languageName).style.display = "block";
+      evt.currentTarget.className += " active";
+    }
+
+    // Click on the first tab on page load
+    document.addEventListener("DOMContentLoaded", function() {
+      document.querySelector("#code-example-tabs .tab-link").click();
+    });
+  </script>
+</div>
